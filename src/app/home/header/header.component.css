@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: cyan;
+    height: 80px;
+}
+
+.logo-name {
+    display: flex;
+    flex-direction: row;
+}
+
+.features {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
